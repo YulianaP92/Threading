@@ -1,0 +1,8 @@
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\bin\Debug\Advanced-Lesson-6-Diagnostic.dll
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\bin\Debug\Advanced-Lesson-6-Diagnostic.pdb
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Advanced-Lesson-6-Diagnostic.csprojAssemblyReference.cache
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Interop.mscoree.dll
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Advanced-Lesson-6-Diagnostic.csproj.ResolveComReference.cache
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Advanced-Lesson-6-Diagnostic.csproj.CoreCompileInputs.cache
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Advanced-Lesson-6-Diagnostic.dll
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Diagnostic\obj\Debug\Advanced-Lesson-6-Diagnostic.pdb

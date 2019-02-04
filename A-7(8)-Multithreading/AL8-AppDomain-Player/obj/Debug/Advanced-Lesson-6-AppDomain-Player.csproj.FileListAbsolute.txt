@@ -1,0 +1,6 @@
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.pdb
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\obj\Debug\Advanced-Lesson-6-AppDomain-Player.csproj.CoreCompileInputs.cache
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\obj\Debug\Advanced-Lesson-6-AppDomain-Player.pdb
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe.config
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe
+D:\ITAcademy\Lessons-Git-Templates\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-Multithreading\Advanced-Lesson-6-AppDomain-Player\obj\Debug\Advanced-Lesson-6-AppDomain-Player.exe
