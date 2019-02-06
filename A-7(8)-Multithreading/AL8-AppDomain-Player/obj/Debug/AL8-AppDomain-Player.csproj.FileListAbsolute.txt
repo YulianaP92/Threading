@@ -1,0 +1,7 @@
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe.config
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\bin\Debug\Advanced-Lesson-6-AppDomain-Player.pdb
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\obj\Debug\AL8-AppDomain-Player.csprojAssemblyReference.cache
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\obj\Debug\AL8-AppDomain-Player.csproj.CoreCompileInputs.cache
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\obj\Debug\Advanced-Lesson-6-AppDomain-Player.exe
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-AppDomain-Player\obj\Debug\Advanced-Lesson-6-AppDomain-Player.pdb

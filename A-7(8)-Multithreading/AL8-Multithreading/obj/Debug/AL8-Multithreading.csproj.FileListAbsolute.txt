@@ -1,0 +1,15 @@
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-Multithreading.exe.config
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-Multithreading.exe
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-Multithreading.pdb
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-Diagnostic.dll
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-AppDomain-Player.pdb
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-AppDomain-Player.exe.config
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\bin\Debug\Advanced-Lesson-6-Diagnostic.pdb
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\AL8-Multithreading.csprojAssemblyReference.cache
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\Interop.mscoree.dll
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\AL8-Multithreading.csproj.ResolveComReference.cache
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\AL8-Multithreading.csproj.CoreCompileInputs.cache
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\AL8-Multithreading.csproj.CopyComplete
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\Advanced-Lesson-6-Multithreading.exe
+D:\Projects\Threading\A-7(8)-Multithreading\AL8-Multithreading\obj\Debug\Advanced-Lesson-6-Multithreading.pdb
