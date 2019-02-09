@@ -28,8 +28,9 @@ namespace Advanced_Lesson_6_Multithreading
             //Lesson.AsyncAwaitTaskPlayerExample();
 
             //Practice.LA8_P2_5();
-            Practice.LA8_P4_5();
-
+            //Practice.LA8_P4_5();
+            Practice.LA8_P5_5Async();
+            Console.WriteLine("the thread is not blocked");
             //Practice.LA8_P5_5();
             //Practice.LA8_P1_5();
             //Console.WriteLine("Place any key to break...");
