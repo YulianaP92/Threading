@@ -98,8 +98,17 @@ namespace Advanced_Lesson_6_Multithreading
         /// и информировании об окончании рассылки (вывод на консоль информации 
         /// удачно ли завершилась отсылка). 
         /// </summary>
-        public async static void LA8_P5_5()
+        public async static void LA8_P5_5Async()
         {
+            string path = Path.Combine(@"D:\Task\", "messageAsync.txt");
+            string message = "My message";
+            using (StreamWriter sw = new StreamWriter(path, false, System.Text.Encoding.Default))
+            {
+                await sw.WriteLineAsync(message);               
+            }
+            Thread.Sleep(1000);
+            Console.WriteLine("The letter was sent");
+            Console.WriteLine();
         }
     }
 }
